@@ -97,25 +97,52 @@ Real-time air quality monitoring with ESP32 hardware, a live React web dashboard
 </td>
 <td width="50%" valign="top">
 
-### 🍽️ Recipe Finder
-**Responsive Recipe Discovery App**
+### 💳 Hollow
+**Production-Grade Financial Intelligence & Expense Tracker**
 
-A clean, fast recipe discovery application built with reusable React components, real-time client-side search, and multi-filter browsing across a large dataset.
+<a href="https://github.com/harsha895155/Hollow">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harsha895155&repo=Hollow&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=7C3AED&text_color=c9d1d9&icon_color=7C3AED" width="100%" alt="Hollow GitHub Repo Stats" />
+</a>
+
+A high-performance, full-stack financial operating system and mobile-ready app featuring real-time liquidity analytics, monthly budget tracking, income management, category customization, receipt attachments, and PDF/CSV reporting.
 
 **What's inside:**
-- Real-time search and filter (cuisine, ingredient, diet)
-- Reusable modular component architecture
-- Fully responsive across all devices
-- Deployed and live
+- Inflow & outflow tracking with payment methods and receipt uploads
+- Monthly category budget limits with visual threshold alerts (80% / 100%)
+- Financial intelligence with Recharts donut/bar charts and PDF/CSV export
+- Multi-currency switcher (INR, USD, EUR, GBP, JPY)
+- Full-stack JWT auth, bcrypt security & offline-first fallback
+- Native mobile readiness (PWA + Capacitor)
 
-**Stack:** React.js · JavaScript · HTML5 · CSS3
+**Stack:** React 18 · Vite · Tailwind CSS · Node.js · Express · Recharts · Capacitor
 
 [![Live Demo](https://img.shields.io/badge/▶_Live_Demo-000000?style=for-the-badge&logo=vercel)](https://harsha895155.github.io/Hollow/)
-[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/harsha895155)
+[![View Code](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/harsha895155/Hollow)
+[![GitHub Stars](https://img.shields.io/github/stars/harsha895155/Hollow?style=for-the-badge&logo=github&color=7C3AED)](https://github.com/harsha895155/Hollow/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/harsha895155/Hollow/master?style=for-the-badge&logo=git&color=7C3AED)](https://github.com/harsha895155/Hollow/commits/master)
 
 </td>
 </tr>
 </table>
+
+---
+
+## 📂 All Public Repositories (Auto-Updated Daily)
+
+<!-- REPOSITORIES:START -->
+
+> 🤖 *Automatically synced with GitHub API daily at 00:00 UTC · Last synced: **Oct 4, 2026***
+
+| Repository | Description | Language | Live Demo | Stars / Forks | Last Active |
+|:---|:---|:---:|:---:|:---:|:---:|
+| [**Hollow**](https://github.com/harsha895155/Hollow) | Production-Grade Financial Intelligence, Expense Tracker & PWA Mobile App | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [🔗 Live Demo](https://harsha895155.github.io/Hollow/) | ⭐ 1 &nbsp;|&nbsp; 🍴 0 | `2026-10-04` |
+| [**Digital-Notes-Management-System**](https://github.com/harsha895155/Digital-Notes-Management-System) | Digital Notes Management System web application | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [🔗 Live Demo](https://digital-notes-management-system.vercel.app) | ⭐ 0 &nbsp;|&nbsp; 🍴 0 | `2026-10-04` |
+| [**portfolio**](https://github.com/harsha895155/portfolio) | Personal developer portfolio website showcasing projects and certifications | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | — | ⭐ 0 &nbsp;|&nbsp; 🍴 0 | `2026-07-17` |
+| [**blog_folut-main**](https://github.com/harsha895155/blog_folut-main) | A full-featured blogging platform built with Django 4.2 and Bootstrap 4. Supports complete CRUD for posts, commenting, like/dislike reactions via AJAX, tagging (django-taggit), draft/publish workflow, category filtering, user profiles with photo uploads, and AWS S3 media storage. Uses a clean service-layer architecture with class-based views. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | — | ⭐ 0 &nbsp;|&nbsp; 🍴 0 | `2026-07-06` |
+| [**VIDESTORE**](https://github.com/harsha895155/VIDESTORE) | Full-Stack Fashion E-Commerce Platform inspired by Zara/Nike with Razorpay & Cloudinary | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [🔗 Live Demo](https://videstore-virid.vercel.app) | ⭐ 1 &nbsp;|&nbsp; 🍴 0 | `2026-05-13` |
+| [**FineTech**](https://github.com/harsha895155/FineTech) | FinTech Banking Dashboard with hardened JWT authentication & bcrypt security | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | — | ⭐ 1 &nbsp;|&nbsp; 🍴 0 | `2026-03-02` |
+
+<!-- REPOSITORIES:END -->
 
 ---
 
