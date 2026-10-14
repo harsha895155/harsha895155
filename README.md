@@ -131,11 +131,11 @@ A high-performance, full-stack financial operating system and mobile-ready app f
 
 <!-- REPOSITORIES:START -->
 
-> 🤖 *Automatically synced with GitHub API daily at 00:00 UTC · Last synced: **Oct 13, 2026***
+> 🤖 *Automatically synced with GitHub API daily at 00:00 UTC · Last synced: **Oct 14, 2026***
 
 | Repository | Description | Language | Live Demo | Stars / Forks | Last Active |
 |:---|:---|:---:|:---:|:---:|:---:|
-| [**IOT-Based-Hyperlocal-Air-Quality-Monitoring-and-alert-System**](https://github.com/harsha895155/IOT-Based-Hyperlocal-Air-Quality-Monitoring-and-alert-System) | Full-stack software development project | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [🔗 Live Demo](https://iot-based-hyperlocal-air-quality-mo.vercel.app) | ⭐ 0 &nbsp;|&nbsp; 🍴 0 | `2026-10-11` |
+| [**IOT-Based-Hyperlocal-Air-Quality-Monitoring-and-alert-System**](https://github.com/harsha895155/IOT-Based-Hyperlocal-Air-Quality-Monitoring-and-alert-System) | Full-stack software development project | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [🔗 Live Demo](https://iot-based-hyperlocal-air-quality-mo.vercel.app) | ⭐ 0 &nbsp;|&nbsp; 🍴 0 | `2026-10-13` |
 | [**portfolio**](https://github.com/harsha895155/portfolio) | Personal developer portfolio website showcasing projects and certifications | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [🔗 Live Demo](harsha10003-portfolio.vercel.app) | ⭐ 1 &nbsp;|&nbsp; 🍴 0 | `2026-10-08` |
 | [**Digital-Notes-Management-System**](https://github.com/harsha895155/Digital-Notes-Management-System) | Digital Notes Management System web application | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [🔗 Live Demo](https://digital-notes-management-system.vercel.app) | ⭐ 0 &nbsp;|&nbsp; 🍴 0 | `2026-10-07` |
 | [**Hollow**](https://github.com/harsha895155/Hollow) | Production-Grade Financial Intelligence, Expense Tracker & PWA Mobile App | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [🔗 Live Demo](https://harsha895155.github.io/Hollow/) | ⭐ 1 &nbsp;|&nbsp; 🍴 0 | `2026-10-04` |
