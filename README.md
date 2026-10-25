@@ -131,11 +131,11 @@ A high-performance, full-stack financial operating system and mobile-ready app f
 
 <!-- REPOSITORIES:START -->
 
-> 🤖 *Automatically synced with GitHub API daily at 00:00 UTC · Last synced: **Oct 24, 2026***
+> 🤖 *Automatically synced with GitHub API daily at 00:00 UTC · Last synced: **Oct 25, 2026***
 
 | Repository | Description | Language | Live Demo | Stars / Forks | Last Active |
 |:---|:---|:---:|:---:|:---:|:---:|
-| [**IOT-Based-Hyperlocal-Air-Quality-Monitoring-and-alert-System**](https://github.com/harsha895155/IOT-Based-Hyperlocal-Air-Quality-Monitoring-and-alert-System) | AirGuard is an IoT-based hyperlocal air quality monitoring and alert system that integrates ESP32 sensors, real-time environmental data, cloud storage, and an interactive dashboard to visualize air quality, track historical trends, and support timely alerts. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [🔗 Live Demo](https://airguard-hyperlocal.vercel.app) | ⭐ 0 &nbsp;|&nbsp; 🍴 0 | `2026-10-23` |
+| [**IOT-Based-Hyperlocal-Air-Quality-Monitoring-and-alert-System**](https://github.com/harsha895155/IOT-Based-Hyperlocal-Air-Quality-Monitoring-and-alert-System) | AirGuard is an IoT-based hyperlocal air quality monitoring and alert system that integrates ESP32 sensors, real-time environmental data, cloud storage, and an interactive dashboard to visualize air quality, track historical trends, and support timely alerts. | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [🔗 Live Demo](https://airguard-hyperlocal.vercel.app) | ⭐ 0 &nbsp;|&nbsp; 🍴 0 | `2026-10-24` |
 | [**portfolio**](https://github.com/harsha895155/portfolio) | Personal developer portfolio website showcasing projects and certifications | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [🔗 Live Demo](harsha10003-portfolio.vercel.app) | ⭐ 1 &nbsp;|&nbsp; 🍴 0 | `2026-10-22` |
 | [**Digital-Notes-Management-System**](https://github.com/harsha895155/Digital-Notes-Management-System) | Digital Notes Management System web application | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [🔗 Live Demo](mind-desk-system.vercel.app) | ⭐ 0 &nbsp;|&nbsp; 🍴 0 | `2026-10-07` |
 | [**Hollow**](https://github.com/harsha895155/Hollow) | Production-Grade Financial Intelligence, Expense Tracker & PWA Mobile App | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [🔗 Live Demo](https://harsha895155.github.io/Hollow/) | ⭐ 1 &nbsp;|&nbsp; 🍴 0 | `2026-10-04` |
